@@ -1,0 +1,16 @@
+Castalia: A Gateway to Gemini
+=============================
+
+Users can:
+* Browse the gemini space. [free]
+* Find important links - Capcom, Cosmos, Antenna, Search Engines [free]
+* Log in and publish gemini content [free]
+* Upload files
+	- 1$/mo - 100MB
+	- 5$/mo - 1GB
+
+
+Roadmap:
+* Gemini Proxy
+* Homepage with important links
+* Publish content
